@@ -1,0 +1,8 @@
+make "a1 "hello
+make "a2 :|hello happy people|
+make "a3 234
+make "a4 [1 2 3 4 "happy 2.34]
+print :a1 
+print :a2
+print :a3
+print :a4
